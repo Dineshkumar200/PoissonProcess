@@ -22,7 +22,6 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 ```python
 /* Developed by: Dineshkumar V
    Reg no:212220230013*/
-   
 import numpy as np
 import math
 mean=3
