@@ -39,7 +39,6 @@ print("The Probability of getting more than 4 customers arrive = ",sq)
 tq=(poisson(3)+poisson(2)+poisson(1)+poisson(0))
 print("The Probability of getting fewer than 4 customers in 2 minute arrival = ",tq)
 ```
-
 # Output : 
 ![Screenshot (279)](https://user-images.githubusercontent.com/75243072/172534244-fde6f6e2-fa16-4695-8ce3-33da4a75f237.png)
 
